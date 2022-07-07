@@ -144,3 +144,9 @@ def writeSlices(series_tag_values, new_img, i, out_dir):
     writer.SetFileName(os.path.join(out_dir,'slice' + str(i).zfill(4) + '.dcm'))
     writer.Execute(image_slice)
 ```
+
+## 🆕 NEW
+
+Full course about medical imaging segmentation is coming soon, join the waitlist here:
+
+https://pycad.co/monai-and-pytoch-for-medical-imaging/
