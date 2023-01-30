@@ -147,6 +147,6 @@ def writeSlices(series_tag_values, new_img, i, out_dir):
 
 ## 🆕 NEW
 
-Full course about medical imaging segmentation is coming soon, join the waitlist here:
+Learn how to effectively manage and process DICOM files in Python with our comprehensive course, designed to equip you with the skills and knowledge you need to succeed.
 
-https://pycad.co/monai-and-pytoch-for-medical-imaging/
+https://www.learn.pycad.co/course/dicom-simplified
