@@ -145,6 +145,11 @@ def writeSlices(series_tag_values, new_img, i, out_dir):
     writer.Execute(image_slice)
 ```
 
+## 📩 Newsletter
+Stay up-to-date on the latest in computer vision and medical imaging! Subscribe to my newsletter now for insights and analysis on the cutting-edge developments in this exciting field.
+
+https://pycad.co/join-us/
+
 ## 🆕 NEW
 
 Learn how to effectively manage and process DICOM files in Python with our comprehensive course, designed to equip you with the skills and knowledge you need to succeed.
