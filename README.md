@@ -42,6 +42,7 @@ And this is the window that you will get:
 - `Open File`: to open then convert one file only.
 - `Open Dir`: to open then convert a directory which means multiple files at the same directory will be converted in one click.
 
+
 -------------------------------------------------------------------------------------
 ## The main functions
 
@@ -155,3 +156,7 @@ https://pycad.co/join-us/
 Learn how to effectively manage and process DICOM files in Python with our comprehensive course, designed to equip you with the skills and knowledge you need to succeed.
 
 https://www.learn.pycad.co/course/dicom-simplified
+
+## 🚀 Coming soon
+
+You can start doing these conversions online without running any code. Please check [this page](https://pycad.co/pycadtools/) for more information.
