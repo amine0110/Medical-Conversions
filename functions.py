@@ -53,6 +53,10 @@ def convert_dcm_jpg(in_dir, out_dir):
 
 def writeSlices(series_tag_values, new_img, i, out_dir):
     image_slice = new_img[:,:,i]
+
+    # Lossless pixel data type conversion from float to 16-bit signed integer
+    image_slice = sitk.Cast(image_slice, sitk.sitkInt16)
+
     writer = sitk.ImageFileWriter()
     writer.KeepOriginalImageUIDOn()
 
