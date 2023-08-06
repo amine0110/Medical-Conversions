@@ -333,7 +333,7 @@ if __name__ == '__main__':
     root = Tk()
     root.geometry('700x500')
     root.title('Pycad Convert')
-    root.iconbitmap('utils/logo.ico')
+    # root.iconbitmap('utils/logo.ico')
 
     root.rowconfigure(0, weight=1)
     root.columnconfigure(0, weight=1)
